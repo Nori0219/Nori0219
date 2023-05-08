@@ -1,5 +1,5 @@
 <p>
-  FlutterとReactを少し触ってます。最近はSwiftも始めました🔥
+  FlutterやReact・Swiftを少し触ってます🔥
 </p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nori0219&layout=compact&show_icons=true&theme=onedark" />
