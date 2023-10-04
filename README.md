@@ -1,8 +1,8 @@
 <p>
-  FlutterやReact・Swiftを少し触ってます🔥
+
 </p>
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nori0219&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nori0219&layout=compact&show_icons=true&langs_count=8&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nori0219&theme=onedark&show_icons=ture" />
 </p>
 
