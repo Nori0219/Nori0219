@@ -6,7 +6,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nori0219&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nori0219&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nori0219&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
